@@ -23,7 +23,6 @@ crcmod==1.7
 cryptography==44.0.3
 cycler==0.12.1
 Cython==3.1.0
-dbus-python==1.4.0
 dirty-equals==0.9.0
 distlib==0.3.9
 distro==1.9.0
