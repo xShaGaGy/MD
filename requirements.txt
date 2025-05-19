@@ -19,7 +19,6 @@ click==8.1.8
 colorama==0.4.6
 colorlog==6.9.0
 contourpy==1.3.2
-coolercontrol_liqctld==2.1.0
 crcmod==1.7
 cryptography==44.0.3
 cycler==0.12.1
